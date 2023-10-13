@@ -1,2 +1,2 @@
 # LearningJava
-Programs written during learning java.
+Programs written in the process of learning java.
